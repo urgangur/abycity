@@ -1,0 +1,15 @@
+:: StoryData
+{
+  "ifid": "71EFDE16-507E-492C-9A94-912E3070083C",
+  "format": "SugarCube",
+  "format-version": "2.23.4",
+  "start": "Start"
+}
+
+:: StoryTitle
+abycity
+
+:: Start
+這是一個開發中的遊戲
+劇情若有雷同，純屬巧合
+
