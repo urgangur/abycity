@@ -1,0 +1,7 @@
+:: Widgets variablesInit [widget]
+/* 這段是用來將設置所有遊戲所需的變數 */
+<<widget "variablesInit">>
+    /*玩家數值 */
+    <<set $money to 500>>
+<</widget>> 
+    
