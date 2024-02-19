@@ -1,0 +1,22 @@
+:: Astreet apartment 1f
+你在公寓的一樓。
+
+這地方看上去並不是很乾淨。
+
+[[上樓|Astreet apartment 2f]]
+[[到安居街上|Astreet]]
+
+:: Astreet apartment 2f
+你在公寓的二樓。
+
+[[回家|Astreet apartment home]]
+
+[[上樓|Astreet apartment 3f]]
+[[下樓|Astreet apartment 1f]]
+
+:: Astreet apartment 3f
+你在公寓的頂樓。
+
+你看到滿地的針頭和吸食器。
+
+[[下樓|Astreet apartment 2f]]
