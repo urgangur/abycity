@@ -1,0 +1,28 @@
+:: StoryData
+{
+  "ifid": "71EFDE16-507E-492C-9A94-912E3070083C",
+  "format": "SugarCube",
+  "format-version": "2.23.4",
+  "start": "Start"
+}
+
+:: StoryTitle
+abycity
+
+:: Start
+abicity
+這是一個開發中的遊戲
+劇情若有雷同，純屬巧合
+
+請記得隨時輸出你的存檔，不然你的存檔可能會遺失。
+
+[[開始遊戲|start1]]
+
+:: start1
+歡迎來到abycity，你要做的就是好好的生存下去。
+
+[[轉醒...?|start2]]
+<<variablesInit>>
+
+:: start2
+你從草堆中醒過來，腦中一片空白，只有強烈的頭痛感
